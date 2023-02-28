@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suhailpa&label=Profile%20views&color=0e75b6&style=flat" alt="suhailpa" /> </p>
 
-- 🔭 I’m currently working on [Travo](https://github.com/SuhailPA/TravoProject)
-
-- 🌱 I’m currently learning **Kotlin**
+- 🔭 I’m currently exploring Jetpack Compose
 
 - 👨‍💻 All of my projects are available at [https://suhailpa.github.io/SuhailDevPW/](https://suhailpa.github.io/SuhailDevPW/)
 
