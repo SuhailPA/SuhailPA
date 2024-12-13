@@ -5,7 +5,7 @@
 
 - 🔭 Exploring Jetpack Compose
 
-- 👨‍💻 All of my projects are available at [[https://suhailpa.github.io/SuhailDevPW/](https://suhailpa.github.io/SuhailDevPW/)](https://suhailpa.github.io/Suhail_P_A.github.io/)
+- 👨‍💻 All of my projects are available at https://suhailpa.github.io/Suhail_P_A.github.io/
 
 - 📫 How to reach me **suhailabbas23@gmail.com**
 
